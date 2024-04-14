@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shulhan
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Electronice
+- 🌱 I’m currently learning Electronica
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me GitHub
 - 😄 Pronouns: He
