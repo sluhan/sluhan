@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sluhan
+- 👋 Hi, I’m Shulhan
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Electronice
 - 💞️ I’m looking to collaborate on GitHub
